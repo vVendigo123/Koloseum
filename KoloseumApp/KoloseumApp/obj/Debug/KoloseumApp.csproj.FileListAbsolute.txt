@@ -1,0 +1,10 @@
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\bin\Debug\KoloseumApp.exe.config
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\bin\Debug\KoloseumApp.exe
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\bin\Debug\KoloseumApp.pdb
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\bin\Debug\KoloseumLibrary.dll
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\bin\Debug\KoloseumLibrary.pdb
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\obj\Debug\KoloseumApp.csprojResolveAssemblyReference.cache
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\obj\Debug\KoloseumApp.csproj.CoreCompileInputs.cache
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\obj\Debug\KoloseumApp.csproj.CopyComplete
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\obj\Debug\KoloseumApp.exe
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumApp\obj\Debug\KoloseumApp.pdb

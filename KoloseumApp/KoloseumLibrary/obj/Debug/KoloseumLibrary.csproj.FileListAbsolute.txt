@@ -1,0 +1,6 @@
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumLibrary\bin\Debug\KoloseumLibrary.dll
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumLibrary\bin\Debug\KoloseumLibrary.pdb
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumLibrary\obj\Debug\KoloseumLibrary.csprojResolveAssemblyReference.cache
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumLibrary\obj\Debug\KoloseumLibrary.csproj.CoreCompileInputs.cache
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumLibrary\obj\Debug\KoloseumLibrary.dll
+G:\GIT_REPO\Koloseum\KoloseumApp\KoloseumLibrary\obj\Debug\KoloseumLibrary.pdb
